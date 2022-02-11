@@ -1,0 +1,15 @@
+.idea/*
+out/*
+build/*
+wz/*
+nbproject./*
+nbproject/*
+META-INF/*
+scripts/.vscode/*
+dist/*
+build.xml
+manifest.mf
+Log_Script_Except.rtf
+.vscode/*
+*.iml
+*.rtf
